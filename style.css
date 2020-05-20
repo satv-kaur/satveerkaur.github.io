@@ -1,0 +1,50 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body {
+    background-color: #E8E6E6
+}
+
+h1 {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+h6 {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+/*Colors*/
+#white-color
+{
+    color: white;
+}
+#peach-color
+{
+    color: #F59F76
+}
+#bold-orange-color
+{
+    color: #FB5605;
+}
+#gray-color
+{
+    color: #C7C7C7;
+}
+#yello-color
+{
+    color: #F9D059;
+}
